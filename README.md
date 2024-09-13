@@ -24,8 +24,8 @@ A web application for managing tasks with functionalities for adding, editing, d
 1. **Clone the repository:**
 
 ```sh
-  git clone https://github.com/mmubeenalikhan/task-dashboard-frontend.git
-  cd task-dashboard-frontend
+  git clone https://github.com/mmubeenalikhan/task-management-dashboard.git
+  cd task-management-dashboard
 ```
 
 2. **Install dependencies:**
